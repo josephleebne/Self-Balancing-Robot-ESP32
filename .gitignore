@@ -76,3 +76,4 @@ dkms.conf
 # Local configuration dumps
 head.txt
 >>>>>>> da46c4d8601c0754e17e91090c9d5ac5b016a036
+.DS_Store
