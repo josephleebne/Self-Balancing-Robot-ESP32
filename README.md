@@ -3,9 +3,9 @@
 A compact, two wheeled autonomous robot that utilises active PID feedback control loops and real time Bluetooth communication to maintain upright equilibrium and receive wireless telemetry.
 
 ## System Showcase
-| Physical Hardware Assembly | Jetpack Compose Android UI |
+| Physical Hardware Assembly | Android UI |
 | :---: | :---: |
-| ![Physical Self Balancing Robot Hardware](assets/robot.png) | ![Modern Jetpack Compose Telemetry Dashboard](assets/android_ui.jpg) |
+| ![Physical Self Balancing Robot Hardware](assets/robot.png) | ![Jetpack Compose Telemetry Dashboard](assets/android_ui.jpg) |
 
 ## Key Technical Features
 * **Complementary Sensor Fusion:** Implemented a real time complementary filtering algorithm to execute sensor fusion on high speed accelerometer and gyroscope datasets, effectively neutralising mechanical vibrations and sensor drift to calculate precise incline angles.
