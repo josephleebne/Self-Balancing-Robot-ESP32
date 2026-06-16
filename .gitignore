@@ -53,3 +53,25 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# ==========================================
+# VS Code and PlatformIO Specific Additions
+# ==========================================
+
+# PlatformIO local build environment and compiled binaries
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code local workspace settings and cache
+.vscode/.provider*
+.vscode/project.xcworkspace
+.vscode/track_state.json
+.vscode/launch.json
+
+# build cache and keep c_cpp_properties.json
+.vscode/.browse.vc.db
+.vscode/ipch/
+
+# Local configuration dumps
+head.txt
