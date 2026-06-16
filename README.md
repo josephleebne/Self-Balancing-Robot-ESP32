@@ -5,7 +5,7 @@ A compact, two wheeled autonomous robot that utilises active PID feedback contro
 ## System Showcase
 | Virtual Circuit Prototype | Physical Hardware Assembly | Jetpack Compose Android UI |
 | :---: | :---: | :---: |
-| ![Virtual Layout](assets/virtual_protyping.png) | ![Physical Self Balancing Robot Hardware](assets/robot.png) | ![Modern Jetpack Compose Telemetry Dashboard](assets/android_ui.png) |
+| ![Virtual Layout](assets/virtual_prototyping.png) | ![Physical Self Balancing Robot Hardware](assets/robot.png) | ![Modern Jetpack Compose Telemetry Dashboard](assets/android_ui.jpg) |
 
 ## 🛠️ Key Technical Features
 * **Complementary Sensor Fusion:** Implemented a real time complementary filtering algorithm to execute sensor fusion on high speed accelerometer and gyroscope datasets, effectively neutralizing mechanical vibrations and sensor drift to calculate precise incline angles.
